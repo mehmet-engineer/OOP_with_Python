@@ -1,2 +1,2 @@
-# OOP_with_Python
-Python ile Nesne Yönelimli Programlama örnek kullanımlar.
+# OOP with Python
+Object Oriented Programming Basics with Python
